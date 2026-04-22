@@ -148,7 +148,8 @@ Expected input layout for this script:
 
 The released data are organized into two subsets:
 
-- **Bilingual parallel value-alignment subset**Paired Chinese and English prompts for evaluating value-alignment shifts across language contexts.
+- **Bilingual parallel value-alignment subset**  
+  Paired Chinese and English prompts for evaluating value-alignment shifts across language contexts.
 - **Chinese-context task subset**
   Chinese cultural and pragmatic tasks, including classical literature, classical Chinese, folk culture, Chinese aesthetics and philosophy, pragmatic intent understanding, and modern Chinese internet slang.
 
@@ -158,10 +159,14 @@ The scripts do not include model outputs by default. To run evaluation, place ge
 
 ## **License**
 
-The dataset files under `data/` are released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+### **MIT License**
+
+This work is licensed under a MIT License.
+
+### **CC BY-NC-SA 4.0**
+
+The CC-EVAL dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 See [`LICENSE-DATA`](LICENSE-DATA) for details.
-
-The evaluation code can be licensed separately. If you use MIT for the code, keep the MIT `LICENSE` file at the repository root and use `LICENSE-DATA` for the dataset.
 
 ---
