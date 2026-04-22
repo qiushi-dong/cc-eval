@@ -157,15 +157,15 @@ The scripts do not include model outputs by default. To run evaluation, place ge
 
 ---
 
-## **License**
+## **Licenses**
 
-### **MIT License**
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-This work is licensed under a MIT License.
+This work is licensed under a [MIT License](https://lbesson.mit-license.org/).
 
-### **CC BY-NC-SA 4.0**
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-The CC-EVAL dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+The CC-EVAL dataset is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 See [`LICENSE-DATA`](LICENSE-DATA) for details.
 
