@@ -10,12 +10,15 @@ This repository contains:
 - **`data/Chinese-context_task/`** - Chinese-context evaluation data covering classical literature, classical Chinese, folk culture, Chinese aesthetics and philosophy, pragmatic intent understanding, and modern Chinese internet slang.
 - **Evaluation code** for labeling bilingual responses and scoring Chinese-context model outputs.
 - **Score aggregation code** for computing alignment scores and summary statistics.
+- **Evaluation protocol documentation** with prompt templates, scoring rubrics, and task-focus configurations.
 
 CC-Eval is designed for research on:
 
 - Cross-lingual value-alignment shifts between Chinese and English prompts
 - Chinese-context cultural and pragmatic understanding
 - Open-ended LLM evaluation with an LLM-as-a-Judge protocol
+
+See [`docs/evaluation_protocol.md`](docs/evaluation_protocol.md) for the full judge prompts, scoring rules, task-focus configuration, and output constraints used in the repository.
 
 ---
 
